@@ -1,0 +1,15 @@
+<svg width="80" height="45" viewBox="0 0 80 45" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M51.5825 32.6616H26.875" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M69.5615 28.7905H62.9839" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M43.75 18.5H10V30.6333C10 31.66 10.9492 32.5 12.1094 32.5H16.0938" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M43.6895 32.5645V7.5H56.8448C57.8095 7.5 58.5988 9.43548 58.5988 9.43548L63.8609 19.1129L68.246 20.0806C69.2107 20.0806 70 20.9516 70 22.0161V30.7258C70 31.7903 69.2107 32.6613 68.246 32.6613H61.5806" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M40.9375 22.5L32.9688 22.5L25 22.5" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22.1875 22.5V22.5V22.5" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M40.9375 26.5L30.625 26.5" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M50.7056 22.0161H48.0745" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21.3861 37.5001C18.7221 37.5001 16.5625 35.1171 16.5625 32.1776C16.5625 29.238 18.7221 26.855 21.3861 26.855C24.0501 26.855 26.2097 29.238 26.2097 32.1776C26.2097 35.1171 24.0501 37.5001 21.3861 37.5001Z" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M56.4064 37.5001C53.7424 37.5001 51.5828 35.1171 51.5828 32.1776C51.5828 29.238 53.7424 26.855 56.4064 26.855C59.0704 26.855 61.23 29.238 61.23 32.1776C61.23 35.1171 59.0704 37.5001 56.4064 37.5001Z" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M47.1977 18.1453C47.1977 18.7259 47.5485 19.113 48.0747 19.113H57.7219C58.2481 19.113 58.5989 18.7259 58.5989 18.1453L55.9678 12.3388C55.9678 12.3388 55.617 11.3711 55.0908 11.3711H48.0747C47.5485 11.3711 47.1977 11.7582 47.1977 12.3388V18.1453Z" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<ellipse cx="21.5032" cy="32.125" rx="1.52344" ry="1.625" fill="black"/>
+<ellipse cx="56.5234" cy="32.125" rx="1.52344" ry="1.625" fill="black"/>
+</svg>
